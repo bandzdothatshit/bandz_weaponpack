@@ -10,3 +10,5 @@ Step 2 Go into "ox_inventory-main\web\images" and add your images which can be f
 
 
 Step 3 Add the "BandzDevelopmentWPack" in your stream/weapons folder in your resources folder then start / ensure it in your server.cfg
+
+My discord - https://discord.gg/rJz33QuM
